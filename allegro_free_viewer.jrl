@@ -1,0 +1,46 @@
+\t (00:00:10) allegro_free_viewer 17.4 S008 Windows SPB 64-bit Edition
+\t (00:00:10)     Journal start - Fri Oct  9 12:42:06 2020
+\t (00:00:10)         Host=DESKTOP-QMFMDL6 User=thush Pid=33388 CPUs=8
+\t (00:00:10) CmdLine= D:\Installed App\tools\bin\allegro_free_viewer.exe
+\t (00:00:10) 
+\t (00:00:12) Starting new design...
+\i (00:00:12) QtSignal VisibilityLayersViewsWidget ViewsDropDownComboBox CurrentIndexChanged
+\i (00:00:12) QtSignal VisibilityLayersGeomsWidget VisLayerGeomsTable layerVisibilityChanged 0 1
+\i (00:00:12) QtSignal VisibilityLayersUserFefsWidget VisLayerUsDefTable layerVisibilityChanged +
+\i (00:00:12) QtSignal 0 1
+\i (00:00:12) QtSignal DisplayGeneral DisplayGeneralViewFrom CurrentIndexChanged Top
+\i (00:00:12) QtSignal DisplayGeneral DisplayGeneralPads CurrentIndexChanged Filled
+\i (00:00:12) QtSignal DisplayShadow OriginBrightnessSlider valueChanged 40
+\i (00:00:12) QtSignal DisplayShadow OriginSaturationSlider valueChanged 100
+\i (00:00:12) QtSignal DisplayOpacity OriginGlobalOpacitySlider valueChanged 100
+\i (00:00:12) QtSignal DisplayOpacity OriginTraceOpacitySlider valueChanged 50
+\i (00:00:12) QtSignal DisplayOpacity OriginViaOpacitySlider valueChanged 50
+\i (00:00:12) QtSignal DisplayOpacity OriginPinOpacitySlider valueChanged 50
+\i (00:00:12) QtSignal DisplayOpacity OriginTextOpacitySlider valueChanged 50
+\i (00:00:12) QtSignal DisplayOpacity OriginShapeOpacitySlider valueChanged 50
+\i (00:00:12) QtSignal VisibilityLayersViewsWidget ViewsDropDownComboBox CurrentIndexChanged
+\i (00:00:12) QtSignal VisibilityLayersViewsWidget ViewsDropDownComboBox CurrentIndexChanged
+\i (00:00:12) QtSignal VisibilityLayersGeomsWidget VisLayerGeomsTable layerVisibilityChanged 0 1
+\i (00:00:12) QtSignal VisibilityLayersUserFefsWidget VisLayerUsDefTable layerVisibilityChanged +
+\i (00:00:12) QtSignal 0 1
+\i (00:00:12) QtSignal DisplayShadow OriginBrightnessSlider valueChanged 50
+\i (00:00:12) trapsize 1897
+\i (00:00:12) trapsize 1923
+\i (00:00:13) trapsize 1832
+\i (00:00:13) ucpedit 
+\i (00:00:30) opencd 'D:/Gokul/Project/Industrial Design/Stylus calibration/Input/Cirel/PCB Design/20.63500202 Rev1.1.brd' 
+\t (00:00:30) Opening existing design...
+\i (00:00:30) QtSignal VisibilityLayersViewsWidget ViewsDropDownComboBox CurrentIndexChanged
+\i (00:00:30) QtSignal VisibilityLayersViewsWidget ViewsDropDownComboBox CurrentIndexChanged
+\i (00:00:30) QtSignal VisibilityLayersGeomsWidget VisLayerGeomsTable layerVisibilityChanged 0 1
+\i (00:00:30) QtSignal VisibilityLayersUserFefsWidget VisLayerUsDefTable layerVisibilityChanged +
+\i (00:00:30) QtSignal 0 1
+\i (00:00:30) QtSignal DisplayShadow OriginBrightnessSlider valueChanged 40
+\i (00:00:30) QtSignal VisibilityLayersViewsWidget ViewsDropDownComboBox CurrentIndexChanged
+\i (00:00:30) QtSignal VisibilityLayersViewsWidget ViewsDropDownComboBox CurrentIndexChanged
+\i (00:00:30) QtSignal VisibilityLayersGeomsWidget VisLayerGeomsTable layerVisibilityChanged 0 1
+\i (00:00:30) QtSignal VisibilityLayersUserFefsWidget VisLayerUsDefTable layerVisibilityChanged +
+\i (00:00:30) QtSignal 0 1
+\i (00:00:30) QtSignal DisplayShadow OriginBrightnessSlider valueChanged 50
+\i (00:00:30) trapsize 750
+\t (00:00:30)     Journal end - Fri Oct  9 12:42:26 2020
